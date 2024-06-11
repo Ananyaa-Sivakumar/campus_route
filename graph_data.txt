@@ -1,0 +1,22 @@
+20
+mainGate redLady 10
+mainGate IT 5
+redLady ece 15
+it coffeeHut 20
+ece coffeeHut 25
+mainGate adminBlock 8
+adminBlock library 12
+library mechanical 10
+mechanical civil 7
+civil electrical 5
+electrical chemical 6
+chemical biotech 9
+biotech aero 14
+aero arch 13
+arch mba 11
+mba mca 10
+mca physics 7
+physics chemistry 6
+chemistry maths 5
+maths mainGate 7
+
